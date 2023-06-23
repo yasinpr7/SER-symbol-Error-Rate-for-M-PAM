@@ -1,1 +1,1 @@
-# SER-symbol-Error-Rate-for-M-PAM
+# SER(symbolErrorRate)forM-PAM
