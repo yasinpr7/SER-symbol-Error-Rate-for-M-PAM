@@ -1,5 +1,5 @@
 %in the name of allah
-%yasin porrashno
+%yasin 
 %symbol error rate probability in PAM modoulation
 
 rng('default') % Set random number seed for repeatability
